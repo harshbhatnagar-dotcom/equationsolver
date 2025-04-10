@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-vkrt=-426grf18!f=w0j=+@*lgdgq7$90l*r01_-wpkfv(=x)j
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['equationsolver.onrender.com']
 
 
 # Application definition
